@@ -7,7 +7,7 @@ ECOMMERCE.png
 ## Description: 
 This section illustrates the layout and user interface design for an e-commerce platform. It includes the main product display, shopping cart, and checkout process.
 ## Key Features:
-Product grid layout
+Product grid layout.
 Search functionality
 Shopping cart overview
 Checkout process with payment options
